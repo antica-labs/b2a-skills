@@ -1,6 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="B2A">
-  <rect width="128" height="128" rx="20" fill="#1C2329"/>
-  <rect x="10" y="10" width="108" height="108" rx="14" fill="none" stroke="#A59768" stroke-width="2.5"/>
-  <circle cx="64" cy="64" r="34" fill="none" stroke="#A59768" stroke-width="2"/>
-  <text x="64" y="73" text-anchor="middle" font-family="Georgia, serif" font-size="28" font-weight="600" fill="#FFFFFF" letter-spacing="2">B2A</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny-ps" viewBox="0 0 512 512">
+  <title>ANTICA</title>
+  <rect width="512" height="512" fill="#181A20"/>
+  <g transform="translate(256, 256) scale(2.38)">
+    <g transform="rotate(0)"><path d="M -24.89 -53.11 L 0 -78 L 24.89 -53.11" fill="none" stroke="#DBC397" stroke-width="3.8" stroke-linecap="miter" stroke-miterlimit="6"/>
+    <path d="M -13.08 -64.92 A 18.5 18.5 0 0 0 13.08 -64.92" fill="none" stroke="#DBC397" stroke-width="3.6" stroke-linecap="butt"/>
+    <path d="M -24.89 -53.11 A 35.2 35.2 0 0 0 24.89 -53.11" fill="none" stroke="#DBC397" stroke-width="4.6" stroke-linecap="butt"/>
+    <path d="M 24.89 -53.11 L 24.89 -24.89 L 53.11 -24.89" fill="none" stroke="#DBC397" stroke-width="3.6" stroke-linejoin="miter"/>
+    <path d="M 24.89 -53.11 C 35.8 -42.2 36.2 -34.2 31.4 -31.4 C 34.2 -36.2 42.2 -35.8 53.11 -24.89" fill="none" stroke="#DBC397" stroke-width="3.8" stroke-linejoin="round" stroke-linecap="round"/>
+    <line x1="19.66" y1="-19.66" x2="31.4" y2="-31.4" stroke="#DBC397" stroke-width="3.6" stroke-linecap="round"/>
+    <path d="M 39.2 -55.8 L 46.2 -55.8 A 9.6 9.6 0 0 1 55.8 -46.2 L 55.8 -39.2 L 48.8 -39.2 A 9.6 9.6 0 0 1 39.2 -48.8 Z" fill="#DBC397"/></g>
+  <g transform="rotate(90)"><path d="M -24.89 -53.11 L 0 -78 L 24.89 -53.11" fill="none" stroke="#DBC397" stroke-width="3.8" stroke-linecap="miter" stroke-miterlimit="6"/>
+    <path d="M -13.08 -64.92 A 18.5 18.5 0 0 0 13.08 -64.92" fill="none" stroke="#DBC397" stroke-width="3.6" stroke-linecap="butt"/>
+    <path d="M -24.89 -53.11 A 35.2 35.2 0 0 0 24.89 -53.11" fill="none" stroke="#DBC397" stroke-width="4.6" stroke-linecap="butt"/>
+    <path d="M 24.89 -53.11 L 24.89 -24.89 L 53.11 -24.89" fill="none" stroke="#DBC397" stroke-width="3.6" stroke-linejoin="miter"/>
+    <path d="M 24.89 -53.11 C 35.8 -42.2 36.2 -34.2 31.4 -31.4 C 34.2 -36.2 42.2 -35.8 53.11 -24.89" fill="none" stroke="#DBC397" stroke-width="3.8" stroke-linejoin="round" stroke-linecap="round"/>
+    <line x1="19.66" y1="-19.66" x2="31.4" y2="-31.4" stroke="#DBC397" stroke-width="3.6" stroke-linecap="round"/>
+    <path d="M 39.2 -55.8 L 46.2 -55.8 A 9.6 9.6 0 0 1 55.8 -46.2 L 55.8 -39.2 L 48.8 -39.2 A 9.6 9.6 0 0 1 39.2 -48.8 Z" fill="#DBC397"/></g>
+  <g transform="rotate(180)"><path d="M -24.89 -53.11 L 0 -78 L 24.89 -53.11" fill="none" stroke="#DBC397" stroke-width="3.8" stroke-linecap="miter" stroke-miterlimit="6"/>
+    <path d="M -13.08 -64.92 A 18.5 18.5 0 0 0 13.08 -64.92" fill="none" stroke="#DBC397" stroke-width="3.6" stroke-linecap="butt"/>
+    <path d="M -24.89 -53.11 A 35.2 35.2 0 0 0 24.89 -53.11" fill="none" stroke="#DBC397" stroke-width="4.6" stroke-linecap="butt"/>
+    <path d="M 24.89 -53.11 L 24.89 -24.89 L 53.11 -24.89" fill="none" stroke="#DBC397" stroke-width="3.6" stroke-linejoin="miter"/>
+    <path d="M 24.89 -53.11 C 35.8 -42.2 36.2 -34.2 31.4 -31.4 C 34.2 -36.2 42.2 -35.8 53.11 -24.89" fill="none" stroke="#DBC397" stroke-width="3.8" stroke-linejoin="round" stroke-linecap="round"/>
+    <line x1="19.66" y1="-19.66" x2="31.4" y2="-31.4" stroke="#DBC397" stroke-width="3.6" stroke-linecap="round"/>
+    <path d="M 39.2 -55.8 L 46.2 -55.8 A 9.6 9.6 0 0 1 55.8 -46.2 L 55.8 -39.2 L 48.8 -39.2 A 9.6 9.6 0 0 1 39.2 -48.8 Z" fill="#DBC397"/></g>
+  <g transform="rotate(270)"><path d="M -24.89 -53.11 L 0 -78 L 24.89 -53.11" fill="none" stroke="#DBC397" stroke-width="3.8" stroke-linecap="miter" stroke-miterlimit="6"/>
+    <path d="M -13.08 -64.92 A 18.5 18.5 0 0 0 13.08 -64.92" fill="none" stroke="#DBC397" stroke-width="3.6" stroke-linecap="butt"/>
+    <path d="M -24.89 -53.11 A 35.2 35.2 0 0 0 24.89 -53.11" fill="none" stroke="#DBC397" stroke-width="4.6" stroke-linecap="butt"/>
+    <path d="M 24.89 -53.11 L 24.89 -24.89 L 53.11 -24.89" fill="none" stroke="#DBC397" stroke-width="3.6" stroke-linejoin="miter"/>
+    <path d="M 24.89 -53.11 C 35.8 -42.2 36.2 -34.2 31.4 -31.4 C 34.2 -36.2 42.2 -35.8 53.11 -24.89" fill="none" stroke="#DBC397" stroke-width="3.8" stroke-linejoin="round" stroke-linecap="round"/>
+    <line x1="19.66" y1="-19.66" x2="31.4" y2="-31.4" stroke="#DBC397" stroke-width="3.6" stroke-linecap="round"/>
+    <path d="M 39.2 -55.8 L 46.2 -55.8 A 9.6 9.6 0 0 1 55.8 -46.2 L 55.8 -39.2 L 48.8 -39.2 A 9.6 9.6 0 0 1 39.2 -48.8 Z" fill="#DBC397"/></g>
+  <circle cx="0" cy="0" r="27.8" fill="none" stroke="#DBC397" stroke-width="3.6"/>
+  <path d="M 0 -11.4 A 22.5 22.5 0 0 0 19.66 -19.66 A 22.5 22.5 0 0 0 11.4 0 A 22.5 22.5 0 0 0 19.66 19.66 A 22.5 22.5 0 0 0 0 11.4 A 22.5 22.5 0 0 0 -19.66 19.66 A 22.5 22.5 0 0 0 -11.4 0 A 22.5 22.5 0 0 0 -19.66 -19.66 A 22.5 22.5 0 0 0 0 -11.4 Z" fill="#DBC397"/>
+  </g>
 </svg>
