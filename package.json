@@ -1,0 +1,35 @@
+{
+  "name": "@antica-labs/b2a-skills",
+  "version": "1.0.0",
+  "description": "Open-source methodological B2A skills for zero-hallucination European corporate KYB, fiduciary governance, Akoma Ntoso 3.0 legal verification, and continuous regulatory watch.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "bin": {
+    "b2a-skills": "./bin/install-b2a-skills.mjs"
+  },
+  "files": [
+    "bin",
+    "skills",
+    "rules",
+    "assets",
+    "plugin.json",
+    "LICENSE",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/antica-labs/b2a-skills.git"
+  },
+  "homepage": "https://github.com/antica-labs/b2a-skills",
+  "author": "Antica Labs <contact@antica-industries.com>",
+  "keywords": [
+    "mcp",
+    "b2a",
+    "agent-skills",
+    "akoma-ntoso",
+    "kyb",
+    "fiduciary",
+    "eu-ai-act",
+    "gdpr"
+  ]
+}

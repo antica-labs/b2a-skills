@@ -1,0 +1,31 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "antica-b2a-skills",
+  "displayName": "Antica Labs — B2A Methodological Skills",
+  "version": "1.0.0",
+  "description": "Four open-source methodological skills (Apache-2.0) for European corporate KYB clearance, fiduciary governance, Akoma Ntoso 3.0 zero-hallucination legal verification, and continuous regulatory watch.",
+  "license": "Apache-2.0",
+  "logo": "assets/logo.svg",
+  "homepage": "https://github.com/antica-labs/b2a-skills",
+  "repository": "https://github.com/antica-labs/b2a-skills",
+  "author": {
+    "name": "Antica Labs",
+    "email": "contact@antica-industries.com",
+    "url": "https://github.com/antica-labs"
+  },
+  "keywords": [
+    "b2a",
+    "mcp",
+    "skills",
+    "akoma-ntoso",
+    "kyb",
+    "fiduciary",
+    "gdpr",
+    "ai-act"
+  ],
+  "suggestedPrompts": [
+    "Execute a zero-hallucination European corporate KYB and statutory clearance workflow",
+    "Audit fiduciary mandate constraints before preparing a WebAuthn-guarded compartment update",
+    "Verify consolidated statutory text in Akoma Ntoso 3.0 XML with SHA-256 and ELI proof"
+  ]
+}

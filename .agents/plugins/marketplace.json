@@ -1,0 +1,20 @@
+{
+  "name": "antica-labs-b2a-skills",
+  "interface": {
+    "displayName": "Antica Labs — B2A Methodological Skills"
+  },
+  "plugins": [
+    {
+      "name": "antica-b2a-skills",
+      "category": "Productivity",
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_FIRST_USE"
+      },
+      "source": {
+        "source": "local",
+        "path": "./"
+      }
+    }
+  ]
+}
